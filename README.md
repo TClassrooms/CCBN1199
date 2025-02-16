@@ -5,13 +5,12 @@ Ementa, plano de aula, aulas e exercícios da disciplina de Introdução à Fís
 
 * Código: CCBN1199
 * Carga horária: 60h
-* Créditos: 4-0-0
+* Créditos: 4
 * Exige pré-requisito: não
-* Ela é um pré-requisito: sim
-* Qual?: CCT519 Eletrificação rural
+* Pós-requisito: CCT519 - Eletrificação rural
 
 # Ementa: 
-A disciplina está dividida em três grandes grupos de saber.
+A disciplina será dividida em três grandes blocos.
 
 I - Mecânica: Noções básicas de cinemática, vetores, dinâmica, conservação da energia e rotação.
 
@@ -30,4 +29,12 @@ Proporcionar aos estudantes as bases para a compreensão dos princípios fundame
 * HALLIDAY, D.; RESNICK. R.. Fundamentos da Física Vol III. Eletricidade. LTC Editora, 2012.
 * TIPLER, P. A.; MOCA, G. Física para Engenheiros. Vol I. LTC Editora, 2015.
 
-
+# Bibliografia Complementar:
+* ALONSO, M.; FINN, E. J. Física: um curso universitário, Vol 1. Edgard Blucher, 2012.
+* CHAVES, A.; SAMPAIO, J. Física Básica: mecânica, Vol1. LTC 2012.
+* CUTNEL, J.D.;JOHNSON, K.W. Física, Vol1. LTC Editora, 2006.
+* FEYMAN, R.P;LEIGHTON, R.B.;SAND,M. Lições de Física de Feynman, Vol 1, mecânica, radiação e calor. Bookman Editora, 2012.
+* NUSSENVEIG, M. Curso de Física Básica, Vol I, Mecânica. Edgard Blucher, 2012.
+* NUSSENVEIG, M. Curso de Física Básica, Vol II, Gravitação, Ondas e Termondiânmica. Edgard Blucher, 2012.
+* NUSSENVEIG, M. Curso de Física Básica, Vol III, Eletricidade. Edgard Blucher, 2012.
+* YOUNG, H.D.; FREEDMAN, R.A. Física, volume I, Mecânica do Sears e Zemansky. Addson Weley, 12a Edição 
